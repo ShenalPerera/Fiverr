@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Airplane.dir/AirplaneSeatAssignmentFP_-_Assignment.cpp.o CMakeFiles/Airplane.dir/dashLine.cpp.o CMakeFiles/Airplane.dir/Plane.cpp.o CMakeFiles/Airplane.dir/Seat.cpp.o CMakeFiles/Airplane.dir/upperCase.cpp.o -o Airplane.exe -Wl,--out-implib,libAirplane.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/AirplaneSeatAssignmentFP - Assignment.cpp
+iostream
+-
+fstream
+-
+string
+-
+ctime
+-
+iomanip
+-
+cctype
+-
+Constants.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/Constants.h
+Plane.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/Plane.h
+dashLine.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/dashLine.h
+upperCase.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/upperCase.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/Constants.h
+string
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/Plane.h
+Seat.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/Seat.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/Seat.h
+string
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/dashLine.h
+string
+-
+iostream
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/chaosmasta/untitled/upperCase.h
+string
+-
+
