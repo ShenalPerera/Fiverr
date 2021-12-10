@@ -1,5 +1,6 @@
-Barrett	Edan	70	45	59
-Bradshaw	Reagan	96	97	88
-Charlton	Caius	73	94	80
-Mayo	Tyrese	88	61	36
-Stern	Brenda	90	86	45
+Name	length	width	windows	doors	closets
+Barrett	Edan	70	45	59	2	1
+Bradshaw	Reagan	96	97	88	2	3
+Charlton	Caius	73	94	80	3	4
+Mayo	Tyrese	88	61	36	2	5
+Stern	Brenda	90	86	45	4	5
