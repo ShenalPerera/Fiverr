@@ -1,4 +1,8 @@
 package FinalProjectFiles;
+
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
 /**
 * In a file called WallEstimate.java, 
 *   ask the user for the name of the information file for the house.  
@@ -10,5 +14,17 @@ package FinalProjectFiles;
 *     Your output file is estimate.txt and can be found in the files folder.
  */
 public class WallEstimate {
-    
+    public static void main(String[] args) throws FileNotFoundException {
+        Scanner scanner = new Scanner(System.in);
+        String fileName;
+
+        System.out.print("Enter the name of your house information file:\n(should be files/HouseInfo.tsv) : ");
+        // Get the file name from the user
+        fileName = scanner.nextLine();
+
+        // Create the roomInfo object with the given filename
+        RoomInfo roomInfo = new RoomInfo(fileName);
+
+        System.out.println("Your output file is estimate.txt and can be found in the files folder");
+    }
 }

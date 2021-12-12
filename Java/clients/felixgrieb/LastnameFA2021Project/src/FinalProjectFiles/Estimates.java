@@ -1,4 +1,10 @@
 package FinalProjectFiles;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+
 /**
  * Make an Estimates class to calculate all of the necessary values and 
  * print a table to a file for a customer.  
@@ -43,5 +49,82 @@ package FinalProjectFiles;
  *          + number_of_closets x roundup [2 x (2.5 +6) / 4 - 1] 
  */
 public class Estimates {
-    
+    private PrintWriter filePrinter;
+    private double wallArea ;
+    private double ceilingArea;
+    private double wallPaint;
+    private double ceilingPaint;
+    private double drywall;
+
+    // Constructor method
+    public Estimates() throws FileNotFoundException {
+        this.filePrinter = new PrintWriter(new FileOutputStream("files/estimates.txt"));
+    }
+
+
+    // printAll method
+    public void printAll(double [][] dims , ArrayList<String> roomNames){
+        tableHeader();
+
+        for (int i =0; i < roomNames.size(); i++){
+            double length , width, windows, doors, closets;
+            double wallArea, ceilingArea,wallPaint,ceilingPaint,dryWall;
+
+            // Extract the dimensions from the dims array
+            length = dims[i][0];
+            width  = dims[i][1];
+            windows= dims[i][2];
+            doors  = dims[i][3];
+            closets= dims[i][4];
+
+            //Calculate the relevant fields
+
+            // Wall area
+            wallArea = (2 * (length + width)  + 2 * (2.5 + 6)) * 8 -
+                    (closets * 2 * 5 * 6.5) - (windows * 3 * 5) - (doors * 3 * 6.5);
+
+            // Ceiling Area
+            ceilingArea = (length * width) + closets * (2.5 * 6);
+
+            // Wall paint
+            wallPaint = wallArea / 400 ;
+
+            // Ceiling paint
+            ceilingPaint = ceilingArea /400;
+
+            // dry wall
+            dryWall = Math.round(( 2 * (length + width)/4 - 0.75 * (windows + doors) - closets))
+                    + closets * Math.round((2 * (2.5 +6) / 4 - 1)) ;
+
+            String roomName = roomNames.get(i);
+
+            this.wallArea = this.wallArea + wallArea;
+            this.ceilingArea = this.ceilingArea + ceilingArea;
+            this.wallPaint = this.wallPaint + wallPaint;
+            this.ceilingPaint = this.ceilingPaint + ceilingPaint;
+            this.drywall = this.drywall + dryWall;
+
+            filePrinter.printf("%-10s\t%-10.2f\t%-13.2f\t%-10s\t%-13s\t%-15s\n",
+                    roomName,wallArea,ceilingArea,Math.round(wallPaint),Math.round(ceilingPaint),(int)dryWall);
+        }
+        this.wallPaint = (Math.round(this.wallPaint));
+        this.ceilingPaint = Math.round(this.ceilingPaint);
+        total();
+        filePrinter.close();
+    }
+
+
+    private void tableHeader(){
+        filePrinter.printf("%-10s\t%-10s\t%-13s\t%-10s\t%-13s\t%-15s\n",
+                "Room Name","Wall Area","ceiling area","wall paint","ceiling paint","sheets of drywall");
+        filePrinter.print("_____________________________________________________________________________________\n");
+
+    }
+
+    private void total(){
+        filePrinter.printf("\n%-10s\t%-10.2f\t%-13.2f\t%-10s\t%-13s\t%-15s\n","Total",wallArea,ceilingArea,(int)wallPaint,(int)ceilingPaint,(int)drywall);
+
+    }
+
+
 }

@@ -1,4 +1,11 @@
 package FinalProjectFiles;
+
+import java.awt.*;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
 /**
  *  Make a RoomInfo class to read the information from the user-provided tsv file.
  *  It should have 
@@ -29,5 +36,44 @@ package FinalProjectFiles;
  *                          The number of closets.
  */
 public class RoomInfo {
-    
+    private ArrayList<String> roomNames;
+    private double [][] dims ;
+    private String fileName;
+    private Estimates dimensions;
+
+
+    public RoomInfo(String fileName) throws FileNotFoundException {
+        this.fileName  = fileName;
+        this. dims = new double[30][5];
+        this.roomNames = new ArrayList<>();
+        this.dimensions = new Estimates();
+        readInfo();
+        dimensions.printAll(dims,roomNames);
+    }
+
+    private void readInfo() throws FileNotFoundException {
+        // Create file input Stream with the fileName
+        FileInputStream fileByStream = new FileInputStream(this.fileName);
+
+        // Scanner to get the file from the defined fileInputStream
+        Scanner inFS = new Scanner(fileByStream);
+        // Skip the first line
+        inFS.nextLine();
+
+        int n = 0;
+        // Read the House Information
+        while (inFS.hasNext()){
+            this.roomNames.add(inFS.next());
+            dims[n][0] = inFS.nextDouble();
+            dims[n][1] = inFS.nextDouble();
+            dims[n][2] = inFS.nextInt();
+            dims[n][3] = inFS.nextInt();
+            dims[n][4] = inFS.nextInt();
+            n++;
+        }
+
+
+
+    }
+
 }
