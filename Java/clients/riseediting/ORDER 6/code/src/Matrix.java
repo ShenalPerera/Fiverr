@@ -110,11 +110,11 @@ public class Matrix {
 
     public void display(){
         for (int i = 0; i < this.rows; i++){
-            System.out.print("| ");
+            System.out.print(" | ");
             for (int j= 0; j< this.columns; j++){
                 System.out.printf("%6.2f ",this.numbers[i][j]);
             }
-            System.out.println("|");
+            System.out.println("| ");
         }
     }
 
@@ -150,8 +150,7 @@ public class Matrix {
         System.out.print("Enter the file to load: ");
 
         // Get the filename
-        String filename = scanner.next();
-
+        String filename = scanner.nextLine();
         // Create the object from Matrix class
         Matrix matrix = Matrix.loadFromFile(filename);
 
@@ -161,7 +160,7 @@ public class Matrix {
         // Calculate the Norm of the matrix
         double norm = matrix.getNorm();
         // Display the norm
-        System.out.printf("The Frobenius Norm is %.2f\n",norm);
+        System.out.printf("The Frobenius Norm is %f\n",norm);
 
         // Prompt the user for a row number and column number
         int row,col;
