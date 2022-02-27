@@ -110,11 +110,11 @@ public class Matrix {
 
     public void display(){
         for (int i = 0; i < this.rows; i++){
-            System.out.print(" | ");
+            System.out.print("  | ");
             for (int j= 0; j< this.columns; j++){
                 System.out.printf("%6.2f ",this.numbers[i][j]);
             }
-            System.out.println("| ");
+            System.out.println("|");
         }
     }
 
@@ -147,7 +147,7 @@ public class Matrix {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Prompt the user for a filename
-        System.out.print("Enter the file to load: ");
+        System.out.print("Enter the file to load:");
 
         // Get the filename
         String filename = scanner.nextLine();
