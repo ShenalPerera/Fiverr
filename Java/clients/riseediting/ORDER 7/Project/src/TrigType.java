@@ -1,0 +1,1 @@
+enum TrigType {COSINE,SINE}

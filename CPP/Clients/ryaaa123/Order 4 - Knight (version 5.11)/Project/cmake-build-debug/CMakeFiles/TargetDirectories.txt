@@ -1,0 +1,4 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/ryaaa123/Order 4 - Knight (version 5.11)/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/ryaaa123/Order 4 - Knight (version 5.11)/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/ryaaa123/Order 4 - Knight (version 5.11)/Project/cmake-build-debug/CMakeFiles/cppq.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/ryaaa123/Order 4 - Knight (version 5.11)/Project/cmake-build-debug/CMakeFiles/Project.dir

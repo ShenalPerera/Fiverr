@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4594cedc-4f88-4ff2-b43b-183a0283e5c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/cjohn321/code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/cjohn321/code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/CSCI project (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/CSCI project (1).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/board.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/board.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/board.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/board.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/cat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/cat.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/cat.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/cat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/dog.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/dog.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/dog.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/dog.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/game.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/game.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/game.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/human.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/human.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/human.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/human.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/jungle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/jungle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/machine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/machine.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/machine.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/machine.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/piece.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/piece.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/piece.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/piece.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/player.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/player.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/player.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/player.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/rat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/rat.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/rat.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/rat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/tiger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/tiger.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/tiger.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/jungle-starter/tiger.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/projec.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/projec.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/projec.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/projec.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/projec.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/projec.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/project.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/CMakeFiles/project.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/project.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CPP/Clients/kasadith/project/cmake-build-debug/project.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/2D Arrays Lab 3-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/Delivery.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/Delivery/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/Delivery/test.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/.idea/code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/code.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/code.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/cmake-build-debug/code.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CPP/Clients/ryaaa123/code/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SQL/k_chappy/Order 2/delivery.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SQL/k_chappy/Order 2/delivery.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="26seZexC0eOPRowJTTzmHCMmkuC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4594cedc-4f88-4ff2-b43b-183a0283e5c2" name="Changes" comment="" />
+      <created>1648216783643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648216783643</updated>
+    </task>
+    <servers />
+  </component>
+</project>

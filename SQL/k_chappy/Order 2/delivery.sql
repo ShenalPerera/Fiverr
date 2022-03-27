@@ -42,14 +42,14 @@ AND course_code="INST" AND course_number = 327 AND year = 2022
 ORDER BY section_id;
 
 DELETE FROM enrollments_copy
-WHERE enrollments_copy.person_id  IN
-(SELECT person_id FROM
-	(SELECT people_copy.person_id
+WHERE enrollments_copy.section_id  IN
+(SELECT section_id FROM
+	(SELECT enrollments_copy.section_id
 	FROM ischool.courses,course_sections,people_copy,enrollments_copy
 	WHERE courses.course_id = course_sections.course_id AND enrollments_copy.person_id = people_copy.person_id 
 	AND course_sections.section_id=enrollments_copy.section_id
 	AND course_code="INST" AND course_number = '327' AND year = 2022
-	) as person
+	) as section
 );
 
 SELECT course_sections.section_id,section_number,concat(course_code,'',course_number) as course ,concat(fname,' ',lname) as student_name

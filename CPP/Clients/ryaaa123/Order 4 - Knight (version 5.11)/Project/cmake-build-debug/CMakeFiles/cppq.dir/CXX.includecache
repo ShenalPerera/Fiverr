@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/ryaaa123/Order 4 - Knight (version 5.11)/Project/test.cpp
+string
+-
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/clock1.dir/chadaClock.cpp.o CMakeFiles/clock1.dir/Clock.cpp.o CMakeFiles/clock1.dir/Clock12.cpp.o -o clock1.exe -Wl,--out-implib,libclock1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

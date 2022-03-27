@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/displayMatrix.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/main.c
+stdio.h
+-
+stdlib.h
+-
+displayMatrix.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/displayMatrix.h
+multiplication.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/multiplication.h
+sum.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/sum.h
+tickets.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/tickets.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/multiplication.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/sum.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/vladpopov/code/tickets.h
+
