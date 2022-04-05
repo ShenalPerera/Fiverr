@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/kasadith/project
+# Install script for directory: /cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

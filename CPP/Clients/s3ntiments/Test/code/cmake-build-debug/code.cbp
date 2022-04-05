@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/s3ntiments/Test/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Animal.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Animal.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Board.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Board.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Cat.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Cat.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Dog.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Dog.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Elephant.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Elephant.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Filemanager.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Filemanager.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Game.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Game.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Human.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Human.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Jumper.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Jumper.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Leopard.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Leopard.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Lion.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Lion.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Machine.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Machine.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Player.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Player.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Rat.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Rat.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Tiger.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Tiger.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Wolf.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/Wolf.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/jungleGame.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/s3ntiments/Test/code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
