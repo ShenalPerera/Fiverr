@@ -1,4 +1,4 @@
-C:\Users\shena\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/kasadith/project
+C:\Users\shena\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project"
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting CXX compiler ABI info
 -- Detecting CXX compiler ABI info - done
@@ -7,4 +7,4 @@ C:\Users\shena\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -D
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug
+-- Build files have been written to: /cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug
