@@ -52,6 +52,22 @@ for major in majors:
     full_roster_df.sort_values(by=["ID"], ascending=True, inplace=True)
     full_roster_df.to_csv("./outputs/" + filename, header=False, index=False)
 
+scholar_candidates = []
+student_IDs = student_gpa_df[student_gpa_df['GPA'] > 3.8].index
+
+for id in student_IDs:
+
+    try:
+        temp = [id, student_majors_df.loc[id, 'Last_name'], student_majors_df.loc[id, 'First_name'],
+                student_majors_df.loc[id, 'Major'], student_gpa_df.loc[id, 'GPA']]
+        scholar_candidates.append(temp)
+    except KeyError:
+        pass
+
+scholar_candidates_df = pd.DataFrame(scholar_candidates, columns=["ID", "Lanme", "Fname", "Major", "GPA"])
+scholar_candidates_df.sort_values(by=["GPA"], ascending=False, inplace=True)
+scholar_candidates_df.to_csv("./outputs/ScholarshipCandidates.csv", header=False, index=False)
+
 # Write disciplinary csv file
 discipline = []
 student_IDs = student_majors_df[student_majors_df['Disciplinary'] == 'Y'].index
