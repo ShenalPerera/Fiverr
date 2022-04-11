@@ -63,7 +63,7 @@ for id in student_IDs:
         temp = [id, student_majors_df.loc[id, 'Last_name'], student_majors_df.loc[id, 'First_name'], date[0], date[1],
                 date[2], student_graduation_df.loc[id, 'Date']]
         discipline.append(temp)
-        
+
     except KeyError:
         pass
 
