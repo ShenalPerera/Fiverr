@@ -1,11 +1,12 @@
 #include <iostream>
 #include "time.h"
 #include "ChadaClocks.h"
+#include "stdafx.h "
 
 // Initialize the currTime in milliseconds when the constructor is called
 ChadaClocks::ChadaClocks() {
     this->currTimeMillis = time(nullptr);
-    this->currTime = localtime(&currTimeMillis);
+    this->currTime = localtime_s(&currTimeMillis);
 }
 
 void ChadaClocks::displayClocks() const{

@@ -10,7 +10,7 @@ Cat::Cat(COLOR color, int X, int Y) : Animal(color, X, Y)
 }
 
 char Cat::getLabel() {
-	if (getcolor() == BLUE) {
+	if (getColor() == BLUE) {
 		return 'c';
 	}
 	

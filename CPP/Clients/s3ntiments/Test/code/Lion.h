@@ -1,4 +1,5 @@
-#ifndef Lion
+#ifndef Lion_h
+#define Lion_h
 
 #include "Animal.h"
 #include "Jumper.h"

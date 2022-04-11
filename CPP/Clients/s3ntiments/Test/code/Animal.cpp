@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #include "Animal.h"
 #include "Player.h"
+#include "Game.h"
 
 using namespace std;
 
@@ -60,8 +61,8 @@ bool Animal::getisRiver() {
 bool Animal::getisDen() {
 	return this->Den;
 }
-COLOR Animal::getcolor() {
-	return this->color;
+COLOR Animal::getColor() {
+    return this->color;
 }
 
 //char Animal::getLabel() {
@@ -75,7 +76,7 @@ COLOR Animal::getcolor() {
 //}
 
 bool Animal::isOpponent(Animal* piece) {
-	if (getcolor() != piece->getcolor()) {
+	if (getColor() != piece->getColor()) {
 		return true;
 	}
 	
@@ -83,7 +84,7 @@ bool Animal::isOpponent(Animal* piece) {
 }
 
 bool Animal::canEat(Animal* rank) {
-	if (getisTrap) {
+	if (getisTrap()) {
 		return false;
 	}
 	
@@ -105,7 +106,7 @@ void Animal::Eat(Board* board, Animal* piece) {
 		int y1 = this->getY();
 	}
 
-	Player* player = board->getGame()->getPlayer(COLOR (1 - (int)(board->getGame()->getPlayer->getTurn())));
+	Player* player = board->getGame()->get_Player(COLOR (1 - (int)(board->getGame()->get_Player->getTurn())));
 
 	board->putPiece(piece->getX(), piece->getY(), this);
 	board->putPiece(x1, y1, EMPTY);

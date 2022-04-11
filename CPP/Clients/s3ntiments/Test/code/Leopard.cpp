@@ -10,7 +10,7 @@ Leopard::Leopard(COLOR color, int X, int Y) : Animal(color, X, Y)
 }
 
 char Leopard::getLabel() {
-	if (getcolor() == BLUE) {
+	if (getColor() == BLUE) {
 		return 'p';
 	}
 

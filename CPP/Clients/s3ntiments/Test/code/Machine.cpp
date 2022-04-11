@@ -1,7 +1,8 @@
 #include "Machine.h"
-#include "Game.h"
 #include <iostream>
 #include <time.h>
+#include "Game.h"
+#include "Player.h"
 #include <cmath>
 using namespace std;
 
@@ -26,12 +27,12 @@ void Machine::make_Move(Board* board) {
 		
 		if (board->getGame()->get_Player(COLOR(board->getGame()->get_Turn()))->count_Pieces() == 1) {
 			
-			Animal* piece2 = board->getGame()->get_Player(COLOR(board->getGame()->get_Turn()))->get_Piece(0);
+			Animal* piece = (board->getGame()->get_Player(COLOR(board->getGame()->get_Turn()))->get_Piece(0));
 
-			if (toupper(piece2->getLabel()) == 'R') {
+			if (toupper(piece->getLabel()) == 'R') {
 				board->getGame()->set_State(GAME_OVER);
 
-				board->getGame()->set_Turn(COLOR(1 - (int)(piece2->getcolor())));
+				board->getGame()->set_Turn(COLOR(1 - (int)(piece->getColor())));
 				break;
 			}
 		}
@@ -61,7 +62,7 @@ void Machine::make_Move(Board* board) {
 
 		if (iteration > 2000) {
 			board->getGame()->set_State(GAME_OVER);
-			board->getGame()->set_Turn(COLOR(1 - (int)(board->getGame()->get_Turn())));
+			board->getGame()->set_Turn(COLOR(1 - (int)(piece->getColor())));
 			break;
 		}
 	}

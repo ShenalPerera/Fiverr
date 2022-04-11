@@ -10,7 +10,7 @@ Rat::Rat(COLOR color, int X, int Y) : Animal(color, X, Y)
 }
 
 char Rat::getLabel() {
-	if (getcolor() == BLUE) {
+	if (getColor() == BLUE) {
 		return 'r';
 	}
 

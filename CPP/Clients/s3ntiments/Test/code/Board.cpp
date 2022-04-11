@@ -10,19 +10,8 @@
 #include "Wolf.h"
 #include "Dog.h"
 #include "Cat.h"
-#include "Filemanager.h"
 
 using namespace std;
-
-Board::Board(Game* game, char * filename) :
-game(game), arr() {  // initialize cells' elements to nullptr
-    // Set up the initial game board
-    if (filename != nullptr)
-        readBoard(filename, this);
-    else
-        initBoard();
-}
-
 
 bool Board::isEmpty(int x, int y) {
 	if (arr[x][y] == (Animal*)EMPTY) {
@@ -32,7 +21,7 @@ bool Board::isEmpty(int x, int y) {
 }
 
 bool Board::isTrap(int x, int y, COLOR color) {
-	if (y == 2 || y == 4) {
+	if (y == 2 && y == 4) {
 		if (x == 0 && color == BLUE) {
 			return true;
 		}

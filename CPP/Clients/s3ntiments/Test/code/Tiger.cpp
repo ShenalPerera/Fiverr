@@ -9,7 +9,7 @@ Tiger::Tiger(COLOR color, int X, int Y) : Animal(color, X, Y) {
 }
 
 char Tiger::getLabel() {
-	if (getcolor() == BLUE) {
+	if (getColor() == BLUE) {
 		return 't';
 	}
 	else {

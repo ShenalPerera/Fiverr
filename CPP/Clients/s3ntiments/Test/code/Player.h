@@ -1,6 +1,5 @@
-#ifndef Player_h
-#define Player_h
-
+#ifndef Player_H
+#define Player_H
 #include <vector>
 #include "Board.h"
 #include "Animal.h"

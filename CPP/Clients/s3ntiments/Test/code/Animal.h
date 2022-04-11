@@ -1,4 +1,6 @@
-#ifndef Animal
+#ifndef Animal_H
+#define Animal_H
+
 #include "Board.h"
 #include <string>
 
@@ -33,7 +35,7 @@ public:
 	bool getisTrap();
 	bool getisRiver();
 	bool getisDen();
-	COLOR getcolor();
+	COLOR getColor();
 
 	virtual bool isMoveValid(Board* board, int x, int y);
 	bool isOpponent(Animal* piece);

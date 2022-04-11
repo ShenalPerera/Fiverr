@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/part 1/Clock'
+make: Leaving directory '/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/part 1/Clock'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

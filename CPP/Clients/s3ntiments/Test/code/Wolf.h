@@ -1,4 +1,5 @@
-#ifndef Wolf
+#ifndef Wolf_H
+#define Wolf_H
 
 #include "Animal.h"
 
