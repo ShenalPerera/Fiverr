@@ -1,4 +1,5 @@
-#ifndef Tiger
+#ifndef Tiger_H
+#define Tiger_H
 
 #include "Animal.h"
 #include "Jumper.h"

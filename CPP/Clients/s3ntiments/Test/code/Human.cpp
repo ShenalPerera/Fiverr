@@ -1,7 +1,8 @@
 #include "Human.h"
-#include "Game.h"
+#include "Board.h"
 #include <iostream>
 #include <limits>
+#include "Game.h"
 
 using namespace std;
 

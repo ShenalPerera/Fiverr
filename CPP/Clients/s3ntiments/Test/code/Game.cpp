@@ -1,14 +1,14 @@
-#include <iostream>
 #include "Game.h"
 #include "Machine.h"
 #include "Human.h"
+#include <iostream>
 
 using namespace std;
 
 Game::Game(MODES mode, char* gamelog) : state(RUN) {
-	Player* blue = (Player*)(mode == HVH) ? (Player*)new Machine("BLUE", BLUE) : new Human("BLUE", BLUE);
+	Player* blue = (Player*)(mode == HVH) ?(Player*) new Machine("BLUE", BLUE) : new Human("BLUE", BLUE);
 
-	Player* red = (Player*)(mode == MVM) ? (Player*)new Human("RED", RED) : new Machine("RED", RED);
+	Player* red = (Player*)(mode == MVM) ?(Player*) new Human("RED", RED) : new Machine("RED", RED);
 
 	player[0] = blue;
 	player[1] = red;
@@ -34,12 +34,12 @@ Board* Game::get_Board() {
 	return this->board;
 }
 
-void Game::set_Turn(COLOR turn) {
-	this->turn = turn;
+void Game::set_Turn(COLOR _turn) {
+	this->turn = _turn;
 }
 
-void Game::set_State(CONDITIONS state) {
-	this->state = state;
+void Game::set_State(CONDITIONS _state) {
+	this->state = _state;
 }
 
 void Game::Run_Game() {

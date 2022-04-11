@@ -10,7 +10,7 @@ Dog::Dog(COLOR color, int X, int Y) : Animal(color, X, Y)
 }
 
 char Dog::getLabel() {
-	if (getcolor() == BLUE) {
+	if (getColor() == BLUE) {
 		return 'd';
 	}
 

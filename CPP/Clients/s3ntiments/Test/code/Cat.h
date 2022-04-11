@@ -1,4 +1,5 @@
-#ifndef Cat
+#ifndef Cat_H
+#define Cat_H
 
 #include "Animal.h"
 

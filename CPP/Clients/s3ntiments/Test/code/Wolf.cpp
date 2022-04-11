@@ -10,7 +10,7 @@ Wolf::Wolf(COLOR color, int X, int Y) : Animal(color, X, Y)
 }
 
 char Wolf::getLabel() {
-	if (getcolor() == BLUE) {
+	if (getColor() == BLUE) {
 		return 'w';
 	}
 

@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #include "Animal.h"
 #include "Player.h"
+#include "Game.h"
 
 using namespace std;
 
@@ -60,8 +61,8 @@ bool Animal::getisRiver() {
 bool Animal::getisDen() {
 	return this->Den;
 }
-COLOR Animal::getcolor() {
-	return this->color;
+COLOR Animal::getColor() {
+    return this->color;
 }
 
 //char Animal::getLabel() {
@@ -75,7 +76,7 @@ COLOR Animal::getcolor() {
 //}
 
 bool Animal::isOpponent(Animal* piece) {
-	if (getcolor() != piece->getcolor()) {
+	if (getColor() != piece->getColor()) {
 		return true;
 	}
 	
@@ -83,7 +84,7 @@ bool Animal::isOpponent(Animal* piece) {
 }
 
 bool Animal::canEat(Animal* rank) {
-	if (getisTrap) {
+	if (getisTrap()) {
 		return false;
 	}
 	
@@ -103,14 +104,15 @@ void Animal::Eat(Board* board, Animal* piece) {
 	if (canEat(piece)) {
 		int x1 = this->getX();
 		int y1 = this->getY();
+        Player* player = board->getGame()->get_Player(COLOR (1 - (int)board->getGame()->get_Turn() ));
+
+        board->setPiece(piece->getX(), piece->getY(), this);
+        board->setPiece(x1, y1, EMPTY);
+        cout << " The " << piece->getName() << " of " << player->get_Name() << " is captured! ";
+        player->remove_Pieces(piece);
 	}
 
-	Player* player = board->getGame()->getPlayer(COLOR (1 - (int)(board->getGame()->getPlayer->getTurn())));
 
-	board->putPiece(piece->getX(), piece->getY(), this);
-	board->putPiece(x1, y1, EMPTY);
-	cout << " The " << piece->getName() << " of " << player->get_Name() << " is captured! ";
-	player->remove_Pieces(piece);
 
 }
 
@@ -134,7 +136,7 @@ void Animal::MovePiece(Board* board, int x, int y) {
 		}
 	}
 
-	if (board->isTrap(x, y, COLOR(1-(int)getcolor()))) {
+	if (board->isTrap(x, y, COLOR(1-(int)getColor()))) {
 		setRank(0);
 		setisTrap(true);
 	}
@@ -172,8 +174,8 @@ void Animal::MovePiece(Board* board, int x, int y) {
 		setisTrap(false);
 	}
 
-	if (board->isDen(x, y, COLOR(1 - (int)getcolor())) || (board->getGame()->getPlayer(COLOR(1 - (int)getcolor())->countPieces() == 0))) {
-		board->getGame()->setState(GAME_OVER);
+	if (board->isDen(x, y, COLOR(1 - (int)getColor())) || (board->getGame()->get_Player(COLOR(1 - (int)getColor()))->count_Pieces() == 0)) {
+		board->getGame()->set_State(GAME_OVER);
 	}
 
 }
@@ -187,7 +189,7 @@ bool Animal::isMoveValid(Board* board, int x, int y) {
 	if (board->isRiver(x, y)) {
 		return false;
 	}
-	if (board->isDen(x, y, getcolor())) {
+	if (board->isDen(x, y, getColor())) {
 		return false;
 	}
 	return true;

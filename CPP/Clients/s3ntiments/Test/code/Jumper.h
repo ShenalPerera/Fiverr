@@ -1,4 +1,5 @@
-#ifndef Jumper
+#ifndef Jumper_H
+#define Jumper_H
 #include "Animal.h"
 
 class Jumper {

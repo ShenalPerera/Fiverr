@@ -1,8 +1,10 @@
-#ifndef Elephant
+#ifndef Elephant_H
+#define Elephant_H
 
 #include "Animal.h"
 
-class Elephant : public Animal{
+class Elephant : public Animal
+{
 public:
 	virtual char getLabel();
 	virtual bool isMoveValid(Board* board, int x, int y);

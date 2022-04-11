@@ -1,5 +1,5 @@
-#ifndef Dog
-
+#ifndef Dog_H
+#define Dog_H
 #include "Animal.h"
 
 class Dog : public Animal

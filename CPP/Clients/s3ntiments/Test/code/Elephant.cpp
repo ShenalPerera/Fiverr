@@ -10,7 +10,7 @@ Elephant::Elephant(COLOR color, int X, int Y) : Animal(color, X, Y)
 }
 
 char Elephant::getLabel() {
-	if (getcolor() == BLUE) {
+	if (getColor() == BLUE) {
 		return 'e';
 	}
 
