@@ -9,7 +9,7 @@ Lion::Lion(COLOR color, int X, int Y) : Animal(color, X, Y) {
 }
 
 char Lion::getLabel() {
-	if (getcolor() == BLUE) {
+	if (getColor() == BLUE) {
 		return 'l';
 	}
 	else {
