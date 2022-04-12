@@ -41,6 +41,7 @@ public:
 	bool isOpponent(Animal* piece);
 	virtual bool canEat(Animal* rank);
 	virtual void Eat(Board* board, Animal* piece);
+
 	virtual char getLabel();
 	void MovePiece(Board* board, int x, int y);
 	Animal(COLOR color, int X, int Y);

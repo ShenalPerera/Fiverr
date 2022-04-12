@@ -21,7 +21,7 @@ bool Board::isEmpty(int x, int y) {
 }
 
 bool Board::isTrap(int x, int y, COLOR color) {
-	if (y == 2 && y == 4) {
+	if (y == 2 || y == 4) {
 		if (x == 0 && color == BLUE) {
 			return true;
 		}
@@ -89,7 +89,7 @@ bool Board::isMoveValid(int x1, int y1, int x2, int y2) {
 		return false;
 	}
 
-	if (getGame()->get_Turn() != this->getPiece(x1, y1)->getcolor()) {
+	if (getGame()->get_Turn() != this->getPiece(x1, y1)->getColor()) {
 		return false;
 	}
 
