@@ -1,0 +1,4 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/humaned/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/humaned/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/humaned/Code/cmake-build-debug/CMakeFiles/test.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/humaned/Code/cmake-build-debug/CMakeFiles/Code.dir

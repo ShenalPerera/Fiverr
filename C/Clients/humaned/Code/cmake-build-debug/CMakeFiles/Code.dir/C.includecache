@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/humaned/Code/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
