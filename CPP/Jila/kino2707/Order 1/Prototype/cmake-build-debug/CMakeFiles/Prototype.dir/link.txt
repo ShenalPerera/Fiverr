@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Prototype.dir/main.cpp.o CMakeFiles/Prototype.dir/Player.cpp.o CMakeFiles/Prototype.dir/Monster.cpp.o CMakeFiles/Prototype.dir/Location.cpp.o CMakeFiles/Prototype.dir/item.cpp.o CMakeFiles/Prototype.dir/dragon.cpp.o -o Prototype.exe -Wl,--out-implib,libPrototype.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

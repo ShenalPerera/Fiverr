@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/calculate_area.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/is_square.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+calculate_area.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/calculate_area.hpp
+is_square.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/is_square.hpp
+

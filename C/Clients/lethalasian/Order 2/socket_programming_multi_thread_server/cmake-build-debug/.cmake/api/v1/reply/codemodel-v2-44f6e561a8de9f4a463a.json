@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "socket_programming_multi_thread_server",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "socket_programming_multi_thread_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-socket_programming_multi_thread_client-Debug-6b5845746fd0d2a3ee5d.json",
+					"name" : "socket_programming_multi_thread_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "socket_programming_multi_thread_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-socket_programming_multi_thread_server-Debug-8fd6cf670c1891117a7e.json",
+					"name" : "socket_programming_multi_thread_server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 2/socket_programming_multi_thread_server/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 2/socket_programming_multi_thread_server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

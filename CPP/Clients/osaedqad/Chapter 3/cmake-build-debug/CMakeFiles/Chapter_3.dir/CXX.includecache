@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/Account.cpp
+iostream
+-
+Account.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/Account.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/Account.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/AccountTest.cpp
+iostream
+-
+Account.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/Account.h
+

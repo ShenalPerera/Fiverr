@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "socket_programming_project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "socket_programming_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-socket_programming_client-Debug-b3f31b91b72906b88a2c.json",
+					"name" : "socket_programming_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "socket_programming_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-socket_programming_server-Debug-58a31f3889c7c42441eb.json",
+					"name" : "socket_programming_server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 1/socket_programming_project/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 1/socket_programming_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

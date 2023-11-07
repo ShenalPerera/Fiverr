@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P4">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P4"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P4/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P4/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P6">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P6"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P6/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P6/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P3">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P3"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P3/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P3/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P2">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P2"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P2/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P2/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/P1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/moosle02/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P1/main.cpp">
+			<Option target="P1"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P2/calculate_area.cpp">
+			<Option target="P2"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P2/calculate_area.hpp">
+			<Option target="P2"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P2/is_square.cpp">
+			<Option target="P2"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P2/is_square.hpp">
+			<Option target="P4"/>
+			<Option target="P2"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P2/main.cpp">
+			<Option target="P2"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P3/calculate_area.cpp">
+			<Option target="P3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P3/calculate_area.hpp">
+			<Option target="P3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P3/is_square.cpp">
+			<Option target="P3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P3/is_square.hpp">
+			<Option target="P3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P3/main.cpp">
+			<Option target="P3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/calculate_area.cpp">
+			<Option target="P4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/calculate_area.hpp">
+			<Option target="P4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/is_square.cpp">
+			<Option target="P4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/is_square.hpp">
+			<Option target="P4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P4/main.cpp">
+			<Option target="P4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P5/get_fibonacci_value.cpp">
+			<Option target="P5"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P5/get_fibonacci_value.hpp">
+			<Option target="P5"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P5/main.cpp">
+			<Option target="P5"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P6/getSumOfDigits.cpp">
+			<Option target="P6"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P6/getSumOfDigits.hpp">
+			<Option target="P6"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P6/isHappy.cpp">
+			<Option target="P6"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P6/isHappy.hpp">
+			<Option target="P6"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/P6/main.cpp">
+			<Option target="P6"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/main.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosle02/code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

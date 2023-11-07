@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/task2.dir/Task2/calculate_area.cpp.o CMakeFiles/task2.dir/Task2/task2.cpp.o -o task2.exe -Wl,--out-implib,libtask2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

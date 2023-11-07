@@ -1,0 +1,24 @@
+*********************************** Treasure Caverns of Doom ***********************************
+
+There are twenty caverns. Each cavern has three tunnels.
+--------------------------------------------------------
+Your task is to find the FIVE hidden artefacts. UNFORTUNATE! These artefacts are not just hidden.
+You have to face some Danger in the caverns. Artefacts are guarded by the MONSTERS.
+
+When you enter the cavern, you will have a map, and a lantern that has a limited amount of oil
+which also sets the number of turns you have, you are armed with a sword and have a backpack
+with some provisions
+
+Get the all FIVE ARTEFACTS and defeat the Monsters.
+
+KEYMAP  :
+        [X] - Examine a cavern
+        [A] - Attack a monster
+        [F] - Flee a battle
+        [P] - Collect Provisions
+        [T] - Take an Item
+        [D] - Drop an Item
+        [S] - Move
+
+Good Luck!
+

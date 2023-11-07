@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/task4.dir/Task4/legal_move.cpp.o CMakeFiles/task4.dir/Task4/get_winner.cpp.o CMakeFiles/task4.dir/Task4/get_winner_test.cpp.o -o task4.exe -Wl,--out-implib,libtask4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

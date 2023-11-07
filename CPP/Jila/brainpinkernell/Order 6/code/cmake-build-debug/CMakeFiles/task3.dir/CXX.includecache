@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 6/code/task3/Point.h
+string
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 6/code/task3/points-play.cpp
+iostream
+-
+Point.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 6/code/task3/Point.h
+

@@ -1,0 +1,3 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/spugzy/DNA/cmake-build-debug/CMakeFiles/DNA.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/spugzy/DNA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/C/Clients/spugzy/DNA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

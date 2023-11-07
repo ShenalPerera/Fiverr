@@ -1,0 +1,7 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/ju2022ur/code/cmake-build-debug/CMakeFiles/code.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/ju2022ur/code/cmake-build-debug/CMakeFiles/q1.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/ju2022ur/code/cmake-build-debug/CMakeFiles/q2.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/ju2022ur/code/cmake-build-debug/CMakeFiles/q3.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/ju2022ur/code/cmake-build-debug/CMakeFiles/q4.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/ju2022ur/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/ju2022ur/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

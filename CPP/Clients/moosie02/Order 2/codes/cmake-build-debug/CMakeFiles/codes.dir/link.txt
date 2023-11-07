@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/codes.dir/P1/test.cpp.o -o codes.exe -Wl,--out-implib,libcodes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

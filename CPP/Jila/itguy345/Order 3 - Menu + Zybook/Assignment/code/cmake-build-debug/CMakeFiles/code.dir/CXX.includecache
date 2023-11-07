@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/itguy345/Order 3 - Menu + Zybook/Assignment/code/Bank.cpp
+iostream
+-
+iomanip
+-
+Bank.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/itguy345/Order 3 - Menu + Zybook/Assignment/code/Bank.h
+limits
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/itguy345/Order 3 - Menu + Zybook/Assignment/code/Bank.h
+vector
+-
+InvestData.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/itguy345/Order 3 - Menu + Zybook/Assignment/code/InvestData.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/itguy345/Order 3 - Menu + Zybook/Assignment/code/InvestData.h
+vector
+-
+

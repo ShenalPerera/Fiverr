@@ -1,0 +1,4 @@
+C:\Users\shena\AppData\Local\JetBrains\CLion2022.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code" -B "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/cmake-build-debug

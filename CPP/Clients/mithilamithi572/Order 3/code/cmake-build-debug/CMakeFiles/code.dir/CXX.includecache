@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Account.cpp
+iostream
+-
+Account.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Account.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Account.hpp
+string
+-
+vector
+-
+Post.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Post.hpp
+Network.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Network.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Network.cpp
+iostream
+-
+fstream
+-
+Network.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Network.hpp
+Account.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Account.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Network.hpp
+vector
+-
+Post.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Post.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Post.cpp
+iostream
+-
+Post.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Post.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Post.hpp
+string
+-
+time.h
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/main.cpp
+iostream
+-
+Network.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Network.hpp
+Account.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 3/code/Account.hpp
+

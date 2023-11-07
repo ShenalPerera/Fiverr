@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/aryanaen1207/Order 2/code/CSVparser.hpp
+stdexcept
+-
+string
+-
+vector
+-
+list
+-
+sstream
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/aryanaen1207/Order 2/code/HashTable.cpp
+algorithm
+-
+climits
+-
+iostream
+-
+string
+-
+time.h
+-
+CSVparser.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/aryanaen1207/Order 2/code/CSVparser.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/P2.dir/P2/calculate_area.cpp.o CMakeFiles/P2.dir/P2/main.cpp.o CMakeFiles/P2.dir/P2/is_square.cpp.o -o P2.exe -Wl,--out-implib,libP2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

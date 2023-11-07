@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/add_to_file.h
+string
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/get_size.h
+string
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/guess_match.h
+string
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/guess_word_from_file.cpp
+iostream
+-
+string
+-
+fstream
+-
+get_size.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/get_size.h
+rand_int.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/rand_int.h
+add_to_file.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/add_to_file.h
+guess_match.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/guess_match.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/Task7/rand_int.h
+

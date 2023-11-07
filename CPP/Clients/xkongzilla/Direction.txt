@@ -1,0 +1,6 @@
+Hi, I was wondering if it was possible to go over a coding project on GitHub to help break it down in-depth so I can understand the thought process and sequence behind it? 
+Or if you would be able to review the code according to the guidelines and comment what order each function should be done so it can be recreated.
+Guidelines:
+https://github.com/donutdespair/c867-roster/blob/main/README.md
+Actual Code:
+https://github.com/DAHarder/WGU-Course-C867/tree/master/C867%20Project

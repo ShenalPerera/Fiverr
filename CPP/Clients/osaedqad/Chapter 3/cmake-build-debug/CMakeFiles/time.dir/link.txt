@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/time.dir/time.cpp.o -o time.exe -Wl,--out-implib,libtime.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

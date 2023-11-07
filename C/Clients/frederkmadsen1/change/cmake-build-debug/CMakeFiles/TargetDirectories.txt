@@ -1,0 +1,3 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/frederkmadsen1/change/cmake-build-debug/CMakeFiles/change.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/frederkmadsen1/change/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/frederkmadsen1/change/cmake-build-debug/CMakeFiles/rebuild_cache.dir

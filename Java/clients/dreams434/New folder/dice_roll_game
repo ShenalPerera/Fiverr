@@ -1,0 +1,77 @@
+import java.util.Scanner;
+
+public class DiceRollSimulator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        int seed;
+        do {
+            System.out.print("Enter a seed : ");
+            seed = scanner.nextInt();
+            if (seed <= 0) {
+                System.out.println("Not a positive number, try again.");
+            }
+        } while (seed <= 0);
+        
+        int numberOfRolls;
+        System.out.print("Enter number of rolls: ");
+        numberOfRolls = scanner.nextInt();
+        
+        DiceRoller diceRoller = new DiceRoller(seed);
+        int[] rollCounts = new int[6];
+        for (int i = 0; i < numberOfRolls; i++) {
+            int[] rolls = diceRoller.roll(5);
+            for (int roll : rolls) {
+                rollCounts[roll - 1]++;
+            }
+        }
+        
+        System.out.println("After " + numberOfRolls + " rolls:");
+        printMatchingCounts(rollCounts);
+    }
+    
+    private static void printMatchingCounts(int[] rollCounts) {
+        int threeMatchingCount = 0;
+        int fourMatchingCount = 0;
+        int fiveMatchingCount = 0;
+        int threeTwoMatchingCount = 0;
+        for (int count : rollCounts) {
+            if (count == 3) {
+                threeMatchingCount++;
+            } else if (count == 4) {
+                fourMatchingCount++;
+            } else if (count == 5) {
+                fiveMatchingCount++;
+            } else if (count == 2 || count == 3) {
+                threeTwoMatchingCount++;
+            }
+        }
+        
+        double percentage;
+        percentage = (double) threeMatchingCount / rollCounts.length * 100;
+        System.out.printf("Three dice matching : %d (%.2f%%)\n", threeMatchingCount, percentage);
+        percentage = (double) fourMatchingCount / rollCounts.length * 100;
+        System.out.printf("Four dice matching : %d (%.2f%%)\n", fourMatchingCount, percentage);
+        percentage = (double) fiveMatchingCount / rollCounts.length * 100;
+        System.out.printf("Five dice matching : %d (%.2f%%)\n", fiveMatchingCount, percentage);
+        percentage = (double) threeTwoMatchingCount / rollCounts.length * 100;
+        System.out.printf("Three and two dice matching : %d (%.2f%%)\n", threeTwoMatchingCount, percentage);
+    }
+}
+
+class DiceRoller {
+    private int seed;
+    
+    public DiceRoller(int seed) {
+        this.seed = seed;
+    }
+    
+    public int[] roll(int numberOfDice) {
+        int[] rolls = new int[numberOfDice];
+        for (int i = 0; i < numberOfDice; i++) {
+            seed = (int) ((seed * 1103515245L + 12345L) % Math.pow(2, 31));
+            rolls[i] = (int) (seed % 6) + 1;
+        }
+        return rolls;
+    }
+}

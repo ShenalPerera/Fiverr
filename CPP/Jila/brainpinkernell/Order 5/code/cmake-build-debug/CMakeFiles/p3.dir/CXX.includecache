@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/get_user_answer.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/min_and_max.cpp
+min_and_max.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/min_and_max.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/min_and_max.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/put_in_order.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/testing.cpp
+iostream
+-
+get_user_answer.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/get_user_answer.h
+put_in_order.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/put_in_order.h
+min_and_max.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 5/code/P3/min_and_max.h
+

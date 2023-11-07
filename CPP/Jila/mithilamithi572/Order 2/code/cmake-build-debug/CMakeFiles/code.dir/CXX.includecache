@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/General.hpp
+Post.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Post.hpp
+string
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Poll.hpp
+vector
+-
+string
+-
+Post.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Post.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Post.hpp
+string
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Promotional.hpp
+string
+-
+Post.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Post.hpp
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/main.cpp
+iostream
+-
+Post.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Post.hpp
+General.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/General.hpp
+Poll.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Poll.hpp
+Promotional.hpp
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/mithilamithi572/Order 2/code/Promotional.hpp
+ctime
+-
+vector
+-
+

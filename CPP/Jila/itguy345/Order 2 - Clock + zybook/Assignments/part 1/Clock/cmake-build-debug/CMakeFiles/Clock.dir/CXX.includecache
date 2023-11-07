@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/Clock/ChadaClocks.h
+iostream
+-
+time.h
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/Clock/Menu.cpp
+iostream
+-
+Menu.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/Clock/Menu.h
+Windows.h
+-
+unistd.h
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/Clock/Menu.h
+ChadaClocks.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/Clock/ChadaClocks.h
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/Clock/main.cpp
+iostream
+-
+ChadaClocks.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/Clock/ChadaClocks.h
+Menu.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/Clock/Menu.h
+thread
+-
+

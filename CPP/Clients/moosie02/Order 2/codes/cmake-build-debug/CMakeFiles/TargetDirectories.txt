@@ -1,0 +1,7 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosie02/Order 2/codes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosie02/Order 2/codes/cmake-build-debug/CMakeFiles/p4.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosie02/Order 2/codes/cmake-build-debug/CMakeFiles/p3.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosie02/Order 2/codes/cmake-build-debug/CMakeFiles/p2.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosie02/Order 2/codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosie02/Order 2/codes/cmake-build-debug/CMakeFiles/p5.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/moosie02/Order 2/codes/cmake-build-debug/CMakeFiles/p1.dir

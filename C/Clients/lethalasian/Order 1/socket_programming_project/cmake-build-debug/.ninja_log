@@ -1,0 +1,6 @@
+# ninja log v5
+10	249	1690261643233079500	build.ninja	b9bcb7174fe7481e
+7	273	1690041249255320800	CMakeFiles/socket_programming_server.dir/tcpserver.c.o	9976a866dc83ce80
+274	529	1690041249511326300	socket_programming_server.exe	f0734249513a5bda
+1	287	1690041262733926900	CMakeFiles/socket_programming_client.dir/tcpclient.c.o	bbc97fab17a8f244
+288	534	1690041262980638800	socket_programming_client.exe	113b73620dd75516

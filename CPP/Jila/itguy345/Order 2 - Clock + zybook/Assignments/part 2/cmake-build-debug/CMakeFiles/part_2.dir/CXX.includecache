@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/part 2/Clock.h
+iostream
+-
+time.h
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/part 2/CoffeMaker.cpp
+iostream
+-
+Clock.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/part 2/Clock.h
+Menu.h
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/part 2/Menu.h
+Windows.h
+-
+unistd.h
+-
+
+/cygdrive/c/Users/shena/Desktop/Fiverr/repo/Fiverr/CPP/Clients/itguy345/Order 2 - Clock + zybook/Assignments/part 2/Menu.h
+

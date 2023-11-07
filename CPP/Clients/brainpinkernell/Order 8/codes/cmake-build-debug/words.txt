@@ -1,0 +1,13 @@
+apple
+orange
+grapes
+mango
+carrot
+car
+papaya
+elephant
+cat
+dog
+rat
+mother
+father

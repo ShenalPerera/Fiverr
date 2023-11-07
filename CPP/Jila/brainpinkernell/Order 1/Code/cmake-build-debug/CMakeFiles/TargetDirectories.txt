@@ -1,0 +1,5 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/cmake-build-debug/CMakeFiles/task7.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/cmake-build-debug/CMakeFiles/task6.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 1/Code/cmake-build-debug/CMakeFiles/task5.dir

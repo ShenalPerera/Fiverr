@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/task6.dir/Task6/hide_letters.cpp.o CMakeFiles/task6.dir/Task6/is_letter.cpp.o CMakeFiles/task6.dir/Task6/hide_letters_test.cpp.o -o task6.exe -Wl,--out-implib,libtask6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

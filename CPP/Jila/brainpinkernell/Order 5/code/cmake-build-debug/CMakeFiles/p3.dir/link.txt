@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/p3.dir/P3/get_user_answer.cpp.o CMakeFiles/p3.dir/P3/testing.cpp.o CMakeFiles/p3.dir/P3/put_in_order.cpp.o CMakeFiles/p3.dir/P3/min_and_max.cpp.o -o p3.exe -Wl,--out-implib,libp3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

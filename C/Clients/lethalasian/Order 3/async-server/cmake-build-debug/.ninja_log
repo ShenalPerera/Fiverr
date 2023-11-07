@@ -1,0 +1,7 @@
+# ninja log v5
+6	725	1690970722986769000	CMakeFiles/async_server.dir/async-tcpserver.c.o	d1d45c78f42d2f98
+726	999	1690970723259131000	async_server.exe	1996ff56e0462095
+1	610	1690968540002720400	CMakeFiles/tcpsever.dir/tcpclient.c.o	f6f29e48b4e07535
+611	899	1690968540289649600	tcpsever.exe	e6b8dabea69c3707
+1	1004	1690986419017923000	CMakeFiles/async_server.dir/async-tcpserver.c.o	d1d45c78f42d2f98
+1004	1312	1690986419325924800	async_server.exe	1996ff56e0462095

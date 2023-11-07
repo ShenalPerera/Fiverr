@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Zybook.dir/main.cpp.o CMakeFiles/Zybook.dir/ContactNode.cpp.o -o Zybook.exe -Wl,--out-implib,libZybook.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

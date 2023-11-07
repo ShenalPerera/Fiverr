@@ -1,0 +1,5 @@
+4
+pigs
+dogs
+chickens
+worms

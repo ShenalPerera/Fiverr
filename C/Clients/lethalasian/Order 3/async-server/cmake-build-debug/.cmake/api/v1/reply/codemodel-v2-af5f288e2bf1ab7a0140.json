@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "async_server",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "async_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-async_server-Debug-6534fbe2026ce8f0ab3b.json",
+					"name" : "async_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcpsever::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcpsever-Debug-711fee52b6ad35d3366b.json",
+					"name" : "tcpsever",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 3/async-server/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 3/async-server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

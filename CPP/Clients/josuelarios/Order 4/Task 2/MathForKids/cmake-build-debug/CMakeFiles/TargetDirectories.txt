@@ -1,0 +1,3 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/josuelarios/Order 4/Task 2/MathForKids/cmake-build-debug/CMakeFiles/MathForKids.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/josuelarios/Order 4/Task 2/MathForKids/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/josuelarios/Order 4/Task 2/MathForKids/cmake-build-debug/CMakeFiles/rebuild_cache.dir

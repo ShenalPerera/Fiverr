@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/task67.dir/Task6/GameCard.cpp.o CMakeFiles/task67.dir/Task6/GameCard-test.cpp.o -o task67.exe -Wl,--out-implib,libtask67.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

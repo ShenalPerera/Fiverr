@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Task.10.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task.10.3-Debug-262ce8c274865e75c8f1.json",
+					"name" : "Task.10.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task.10.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task.10.4-Debug-29de3af0348a413f2690.json",
+					"name" : "Task.10.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task.10.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task.10.5-Debug-0d2975eafadc88b9c8d6.json",
+					"name" : "Task.10.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task.11.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task.11.2-Debug-fbfc524fc8a62f93a80e.json",
+					"name" : "Task.11.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task.11.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task.11.3-Debug-59d59c07b34f488c90d3.json",
+					"name" : "Task.11.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task.11.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task.11.5-Debug-f4cd0b7d5be0f18c5198.json",
+					"name" : "Task.11.5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 9/code/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/brainpinkernell/Order 9/code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

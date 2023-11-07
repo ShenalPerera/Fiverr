@@ -1,0 +1,18 @@
+# ninja log v5
+78	1619	1670689651976385800	CMakeFiles/code.dir/game.cpp.o	ab2d386104b439a8
+2	247	1670811921058559700	build.ninja	2a319e2af061568d
+1620	2462	1670689652829384400	CMakeFiles/code.dir/rook.cpp.o	8e382a70ff6b0aec
+1171	2193	1670689652552383800	CMakeFiles/code.dir/piece.cpp.o	23f9a6963ed5fad3
+55	1171	1670689651512384600	CMakeFiles/code.dir/chessBoard.cpp.o	c049c37d4a83be3e
+1203	2398	1670689652757403900	CMakeFiles/code.dir/player.cpp.o	72b5e4cdb2c7f50a
+1254	2240	1670689652597386700	CMakeFiles/code.dir/restrictedPiece.cpp.o	900c0f0ad0220f4
+2087	2741	1670689653111579300	CMakeFiles/code.dir/location.cpp.o	ae6de1f12b576213
+2741	3119	1670689653487302200	code.exe	daa9533cd85bcc8f
+14	1202	1670689651545386000	CMakeFiles/code.dir/main.cpp.o	a4b008abbcd9bbe9
+36	1129	1670689651484385900	CMakeFiles/code.dir/bishop.cpp.o	f931481ea9a81876
+1130	2087	1670689652455385600	CMakeFiles/code.dir/pawn.cpp.o	5cf5bffcc8c7825a
+57	1441	1670681713077154100	CMakeFiles/code.dir/board.cpp.o	6f763a54325a53f1
+1229	2161	1670689652520384600	CMakeFiles/code.dir/queen.cpp.o	edfafea46f99645
+100	1229	1670689651580386100	CMakeFiles/code.dir/king.cpp.o	91b32a6dc8a535c1
+1450	2323	1670676779887899700	CMakeFiles/code.dir/square.cpp.o	1ffff19b8a0b4b2e
+122	1253	1670689651574384500	CMakeFiles/code.dir/knight.cpp.o	f9e6a0d38f98b318

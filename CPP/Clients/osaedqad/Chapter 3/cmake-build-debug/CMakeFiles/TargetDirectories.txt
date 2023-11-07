@@ -1,0 +1,6 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/cmake-build-debug/CMakeFiles/ch6_3.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/cmake-build-debug/CMakeFiles/time.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/cmake-build-debug/CMakeFiles/ch6_2.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/osaedqad/Chapter 3/cmake-build-debug/CMakeFiles/ch6.dir

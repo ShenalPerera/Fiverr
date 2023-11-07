@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/ch53.dir/pythagorean.cpp.o -o ch53.exe -Wl,--out-implib,libch53.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,4 @@
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 2/socket_programming_multi_thread_server/cmake-build-debug/CMakeFiles/socket_programming_multi_thread_server.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 2/socket_programming_multi_thread_server/cmake-build-debug/CMakeFiles/socket_programming_multi_thread_client.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 2/socket_programming_multi_thread_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/C/Clients/lethalasian/Order 2/socket_programming_multi_thread_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

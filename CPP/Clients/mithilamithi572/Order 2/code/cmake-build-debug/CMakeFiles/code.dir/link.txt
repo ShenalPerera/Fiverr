@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/code.dir/main.cpp.o CMakeFiles/code.dir/Post.cpp.o CMakeFiles/code.dir/General.cpp.o CMakeFiles/code.dir/Poll.cpp.o CMakeFiles/code.dir/Promotional.cpp.o -o code.exe -Wl,--out-implib,libcode.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

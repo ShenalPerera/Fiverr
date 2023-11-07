@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/P1.dir/P1/main.cpp.o -o P1.exe -Wl,--out-implib,libP1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

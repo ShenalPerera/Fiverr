@@ -1,0 +1,6 @@
+strings1.txt
+strings2.txt
+strings3.txt
+strings4.txt
+1101
+5

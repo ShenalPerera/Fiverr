@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 project"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project/fast">
+				<Option output="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 project/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/shena/Desktop/Fiverr/original\ repo/Fiverr/CPP/Clients/kasadith/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/board.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/board.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cat.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/cat.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/dog.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/dog.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/elephant.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/elephant.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/fileman.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/fileman.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/game.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/game.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/human.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/human.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/jumper.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/jumper.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/jungle.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/leopard.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/leopard.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/lion.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/lion.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/machine.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/machine.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/piece.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/piece.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/player.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/player.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/rat.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/rat.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/tiger.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/tiger.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/wolf.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/wolf.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/shena/Desktop/Fiverr/original repo/Fiverr/CPP/Clients/kasadith/project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,18 @@
+# ninja log v5
+5	199	1668874802865659800	build.ninja	be737fb9ede06a76
+13	747	1668874782658944400	CMakeFiles/code_test.dir/main.cpp.o	9948c17d8cf7f88a
+58	1024	1668873892099509500	CMakeFiles/code_test.dir/Post.cpp.o	19847b5e2bc37d31
+77	1103	1668873892183518700	CMakeFiles/code_test.dir/General.cpp.o	fece68f399af1d00
+102	1304	1668873892388544700	CMakeFiles/code_test.dir/Account.cpp.o	779dd65fc6ae5288
+35	772	1668874782683930100	CMakeFiles/code_test.dir/LinkedList.cpp.o	8a5c7407835a6def
+39	828	1668790984628671100	CMakeFiles/code_test.dir/Node.cpp.o	5a3373b80ccb0bb9
+11	610	1668874820573484500	CMakeFiles/code_test.dir/Node.cpp.o	5a3373b80ccb0bb9
+611	842	1668874820802997800	code_test.exe	3a464444f91a0eba
+14	855	1668874965460577300	CMakeFiles/code_test.dir/main.cpp.o	9948c17d8cf7f88a
+37	881	1668874965490561800	CMakeFiles/code_test.dir/LinkedList.cpp.o	8a5c7407835a6def
+882	1151	1668874965757566300	code_test.exe	3a464444f91a0eba
+13	613	1668874974311044000	CMakeFiles/code_test.dir/main.cpp.o	9948c17d8cf7f88a
+614	839	1668874974535057400	code_test.exe	3a464444f91a0eba
+12	3345	1668875045071355000	CMakeFiles/code_test.dir/main.cpp.o	9948c17d8cf7f88a
+11	699	1668875082328468500	CMakeFiles/code_test.dir/main.cpp.o	9948c17d8cf7f88a
+12	648	1668875146729667100	CMakeFiles/code_test.dir/main.cpp.o	9948c17d8cf7f88a

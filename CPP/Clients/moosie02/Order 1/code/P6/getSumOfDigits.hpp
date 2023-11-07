@@ -1,0 +1,6 @@
+#ifndef CODE_GETSUMOFDIGITS_HPP
+#define CODE_GETSUMOFDIGITS_HPP
+
+int getSumOfDigits(int );
+
+#endif //CODE_GETSUMOFDIGITS_HPP

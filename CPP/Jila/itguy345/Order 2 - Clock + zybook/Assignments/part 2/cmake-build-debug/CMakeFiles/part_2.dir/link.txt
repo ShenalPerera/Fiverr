@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/part_2.dir/CoffeMaker.cpp.o CMakeFiles/part_2.dir/Clock.cpp.o CMakeFiles/part_2.dir/Menu.cpp.o -o part_2.exe -Wl,--out-implib,libpart_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
